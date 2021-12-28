@@ -1,3 +1,3 @@
 # tandarama.github.io
 
-please check the finished web site at [tandarama.com](https://tandarama.com)
+please see my finished artist portfolio site at [tandarama.com](https://tandarama.com)
